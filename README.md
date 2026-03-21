@@ -1,12 +1,13 @@
 # Hi Everyone! 
 
-I am Yogesh Nagor and As a passionate Software Developer with 3 years of experience, I have a proven track record of creating visually stunning and functional web application and GUIs. With a good understanding of Python, Web design principles and expertise in HTML, CSS, JavaScript, Angular, SQL, Docker, GIT and various Frontend and backend frameworks, I have delivered numerous projects that have exceeded client expectations.
+# Software Engineer | Automotive & Full-Stack Systems
 
-I am adept at collaborating with cross-functional teams, including designers, project managers, and test developers, to deliver exceptional user experiences. I am also committed to staying up-to-date with the latest technologies and industry trends, ensuring that my work remains relevant and effective.
+Software Engineer with 3+ years of experience in automotive infotainment systems, full-stack development, and software automation. Experienced in building Python-based tools, Angular web applications, and system-level automation workflows across automotive environments including AUDI AG and Italdesign projects via Teoresi Group.
 
-In addition to my technical skills, I possess strong communication and problem-solving abilities, which allow me to approach challenges with a creative and analytical mindset. I am excited to bring my skills and experience to a dynamic and innovative organization that values teamwork and excellence in Software development.
+Tech Stack: Python, Angular, JavaScript, REST APIs, HTML/CSS, SQL, Git, Automation Tools
+Domains: Automotive Infotainment Systems, Full-Stack Web Development, Embedded & System Integration
 
-If you catch me outside work, I am probably up in the mountains enjoying nature! If you are interesting in meeting; please contact me at iamyogeshnagor@gmail.com
+Passionate about building scalable software systems, automation tools, and user-focused applications.
 
 ### 😄 Pronouns
 He/Him
