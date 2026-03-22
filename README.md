@@ -8,5 +8,3 @@ Core Expertise: Automotive Infotainment Systems, Full-Stack Web Development, Emb
 
 Focused on building scalable, reliable, and maintainable software systems and automation tools.
 
-### 📫 How to reach me?
-- [LinkedIn](https://www.linkedin.com/in/yogesh-nagor-8a190813b/) 
